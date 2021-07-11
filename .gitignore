@@ -1,0 +1,10 @@
+# ignore provider
+.terraform/*
+
+# ignore state files
+*.tfstate
+*.tfstate.*
+
+# ignore vars files
+*.tfvars
+
